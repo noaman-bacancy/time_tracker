@@ -1,5 +1,5 @@
 
-## Installation On Ubuntu
+## Installation On Ubuntu 20
 
 ##### Install curl if not installed
 
