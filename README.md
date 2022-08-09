@@ -1,3 +1,33 @@
+
+## Installation On Ubuntu
+
+##### Install curl if not installed
+
+```bash
+sudo apt-get install curl
+```
+
+![](image/installcurl.png)
+
+##### After installing curl run below command to install time time tracker
+
+```bash
+curl -Ls https://bit.ly/3vOYK8y | sh
+```
+
+![](image/installscrpt.png)
+
+##### on installation launch time tracker from application
+
+![](image/searchtracker.png)
+
+##### tracker up
+
+![](image/runningtracker.png)
+
+
+## Developer Readme
+
 1.. Download the folder and save it to local with unzipped
 2.. Open the dist/time_tracker_v_4 (First the app file which have the logo if it is not able to open or taking too much time you may go for time_tracker_v_4(terminal logo))
 3.. The app will start executing
